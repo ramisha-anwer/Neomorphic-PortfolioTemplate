@@ -23,7 +23,7 @@ https://adithyapaib.github.io/Neomorphic-PortfolioTemplate/
 
 - Responsive Layout
 - Rich, multi-step animations 
-- Fullscreen mode
+- Light/dark mode toggle
 - Aesthetic and modern UI
 
 
